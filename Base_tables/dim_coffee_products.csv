@@ -1,0 +1,99 @@
+product_id,product_category,product_detail,unit_price
+1,Bakery,Almond Croissant,"4,69"
+2,Bakery,Almond Croissant,"3,75"
+3,Coffee beans,Brazilian - Organic,18
+4,Coffee,Brazilian Lg,"3,5"
+5,Coffee,Brazilian Rg,3
+6,Coffee,Brazilian Sm,"2,2"
+7,Coffee,Cappuccino,"3,75"
+8,Coffee,Cappuccino Lg,"4,25"
+9,Flavours,Carmel syrup,"0,8"
+10,Packaged Chocolate,Chili Mayan,"13,33"
+11,Bakery,Chocolate Chip Biscotti,"4,38"
+12,Bakery,Chocolate Chip Biscotti,"3,5"
+13,Bakery,Chocolate Croissant,"4,69"
+14,Bakery,Chocolate Croissant,"3,75"
+15,Flavours,Chocolate syrup,"0,8"
+16,Coffee beans,Civet Cat,45
+17,Coffee beans,Columbian Medium Roast,15
+18,Coffee,Columbian Medium Roast Lg,3
+19,Coffee,Columbian Medium Roast Rg,"2,5"
+20,Coffee,Columbian Medium Roast Sm,2
+21,Bakery,Cranberry Scone,"3,25"
+22,Bakery,Cranberry Scone,"4,06"
+23,Bakery,Croissant,"4,38"
+24,Bakery,Croissant,"3,5"
+25,Packaged Chocolate,Dark chocolate,"6,4"
+26,Drinking Chocolate,Dark chocolate Lg,"4,5"
+27,Drinking Chocolate,Dark chocolate Rg,"3,5"
+28,Loose Tea,Earl Grey,"8,95"
+29,Tea,Earl Grey Lg,3
+30,Tea,Earl Grey Rg,"2,5"
+31,Loose Tea,English Breakfast,"8,95"
+32,Tea,English Breakfast Lg,3
+33,Tea,English Breakfast Rg,"2,5"
+34,Coffee beans,Espresso Roast,"14,75"
+35,Coffee,Espresso shot,3
+36,Coffee beans,Ethiopia,21
+37,Coffee,Ethiopia Lg,"3,5"
+38,Coffee,Ethiopia Rg,3
+39,Coffee,Ethiopia Sm,"2,2"
+40,Bakery,Ginger Biscotti,"3,5"
+41,Bakery,Ginger Biscotti,"4,38"
+42,Bakery,Ginger Scone,"4,06"
+43,Bakery,Ginger Scone,"2,65"
+44,Bakery,Ginger Scone,"3,25"
+45,Coffee beans,Guatemalan Sustainably Grown,10
+46,Bakery,Hazelnut Biscotti,"3,25"
+47,Bakery,Hazelnut Biscotti,"4,06"
+48,Flavours,Hazelnut syrup,"0,8"
+49,Branded,I Need My Bean! Diner mug,23
+50,Branded,I Need My Bean! Diner mug,12
+51,Branded,I Need My Bean! Latte cup,14
+52,Branded,I Need My Bean! Latte cup,23
+53,Branded,I Need My Bean! T-shirt,28
+54,Branded,I Need My Bean! T-shirt,23
+55,Coffee beans,Jamacian Coffee River,"19,75"
+56,Coffee,Jamaican Coffee River Lg,"3,75"
+57,Coffee,Jamaican Coffee River Rg,"3,1"
+58,Coffee,Jamaican Coffee River Sm,"2,45"
+59,Bakery,Jumbo Savory Scone,"4,69"
+60,Bakery,Jumbo Savory Scone,"3,75"
+61,Coffee,Latte,"3,75"
+62,Coffee,Latte Rg,"4,25"
+63,Loose Tea,Lemon Grass,"8,95"
+64,Tea,Lemon Grass Lg,3
+65,Tea,Lemon Grass Rg,"2,5"
+66,Loose Tea,Morning Sunrise Chai,"9,5"
+67,Tea,Morning Sunrise Chai Lg,4
+68,Tea,Morning Sunrise Chai Rg,"2,5"
+69,Bakery,Oatmeal Scone,3
+70,Coffee beans,Organic Decaf Blend,"22,5"
+71,Coffee beans,Organic Decaf Blend,28
+72,Coffee beans,Organic Decaf Blend,23
+73,Coffee beans,Organic Decaf Blend,12
+74,Coffee beans,Our Old Time Diner Blend,18
+75,Coffee,Our Old Time Diner Blend Lg,3
+76,Coffee,Our Old Time Diner Blend Rg,"2,5"
+77,Coffee,Our Old Time Diner Blend Sm,2
+78,Coffee,Ouro Brasileiro shot,"2,1"
+79,Coffee,Ouro Brasileiro shot,3
+80,Loose Tea,Peppermint,"8,95"
+81,Tea,Peppermint Lg,3
+82,Tea,Peppermint Rg,"2,5"
+83,Coffee beans,Primo Espresso Roast,"20,45"
+84,Bakery,Scottish Cream Scone ,"4,5"
+85,Bakery,Scottish Cream Scone ,"5,63"
+86,Loose Tea,Serenity Green Tea,"9,25"
+87,Tea,Serenity Green Tea Lg,3
+88,Tea,Serenity Green Tea Rg,"2,5"
+89,Loose Tea,Spicy Eye Opener Chai,"10,95"
+90,Tea,Spicy Eye Opener Chai Lg,"3,1"
+91,Tea,Spicy Eye Opener Chai Rg,"2,55"
+92,Flavours,Sugar Free Vanilla syrup,"0,8"
+93,Packaged Chocolate,Sustainably Grown Organic,"7,6"
+94,Drinking Chocolate,Sustainably Grown Organic Lg,"4,75"
+95,Drinking Chocolate,Sustainably Grown Organic Rg,"3,75"
+96,Loose Tea,Traditional Blend Chai,"8,95"
+97,Tea,Traditional Blend Chai Lg,3
+98,Tea,Traditional Blend Chai Rg,"2,5"
